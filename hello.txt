@@ -11,3 +11,5 @@ hello git!
 
 version3.0.0
 hello git!
+
+hot-fix version3.0.0
