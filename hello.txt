@@ -8,3 +8,6 @@ hello git!
 hello git!
 hello git!
 hello git!
+
+version3.0.0
+hello git!
